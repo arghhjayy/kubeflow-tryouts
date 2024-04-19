@@ -1,0 +1,3 @@
+[submodule "titanic-kaggle-competition"]
+	path = titanic-kaggle-competition
+	url = https://github.com/kubeflow/examples.git

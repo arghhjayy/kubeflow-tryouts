@@ -1,3 +1,4 @@
+brew install kubectl
 brew install kind
 kind create cluster
 
